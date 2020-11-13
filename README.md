@@ -6,6 +6,8 @@ But I found a error in this code, I think it's not a code error.. my kernel just
 
 # Used Docs
 
-https://developer.twitter.com/en/docs
-https://www.toptal.com/apache/apache-spark-streaming-twitter
-https://hopsworks.readthedocs.io/en/1.2/user_guide/hopsworks/jupyter.html
+- https://developer.twitter.com/en/docs
+
+- https://www.toptal.com/apache/apache-spark-streaming-twitter
+
+- https://hopsworks.readthedocs.io/en/1.2/user_guide/hopsworks/jupyter.html
